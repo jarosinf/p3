@@ -1,0 +1,46 @@
+body
+{
+  font-family: 'Stylish', sans-serif;
+  background: gold;
+  padding: .75px 10px .75px 10px;
+}
+h1
+{
+  font-size: 120%;
+  text-align: center;
+  font-weight: bold;
+}
+p
+{
+  border-outline: 1.3px;
+  text-spacing: 1.1em;
+  background-color: lightblue;
+
+}
+#buttonex
+{
+  text-align: center;
+  line-height: 1.2em;
+}
+.out-messages
+{
+  font-color: blue;
+  background-color: grey;
+}
+.in-messages
+{
+  font-color: red;
+  background-color: grey;
+}
+#Operator
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px;
+  border-style: ridge;
+}
+#chat
+{
+  text-align: justify;
+  border-top: 1.2px;
+}
